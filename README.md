@@ -30,14 +30,6 @@ VIDEO DE APRESENTAÇÃO:
 :warning: [Functools]
 :warning: [Selenium]
 
-## Como rodar a aplicação :arrow_forward:
-
-No terminal, clone o projeto: 
-
-```
-git clone =========================
-    
-```
 
 <h2> Passo a passo do funcionamento</h2>
 
